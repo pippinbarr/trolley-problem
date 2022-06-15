@@ -1,0 +1,90 @@
+TROLLEY PROBLEM
+or
+TROLLEY PROBLEMS
+
+
+
+=== CODE ===
+
+TrolleyProblemPreloader - FlxPreloader
+TrolleyProblem - FlxGame
+
+IntroScreen - FlxState
+
+Tutorial - FlxState
+
+GameStage - FlxState
+	Could write this to abstract some stuff (like giving instructions)
+
+Classic - FlxState
+
+FatMan - FlxState
+
+LoopTrack - FlxState
+
+YoMomma - FlxState
+
+Results - FlxState
+
+Cookie - FlxSave
+
+Assets - static
+Texts - static
+
+Train (Any point? Or just a FlxSprite…)
+Track (Any point? Or just a FlxSprite…)
+Person (Any point? Or just a FlxSprite…)
+Lever (Any point? Or just a FlxSprite…)
+Bridge (Any point?)
+[My suspicion is that I need very little in the way of "special" behaviours because the game itself is so incredibly simple.]
+
+
+
+
+=== SOUNDS ===
+
+Need a "bip" sound for when the train hits a person
+Maybe need a "blarp" sound when the fat guy falls
+Need a bip sound for when the tracks move.
+All should just variants on a beep though.
+-- All can come from bfxr
+
+Probably some cute soundtrack - WolframTones!!!
+
+
+
+=== GRAPHICS ===
+
+Just draw them in Pixen and export.
+Animation: Lever, track switch, fat man… (train of course, but it will be following a path)
+
+(Note, too, that the entire game could be made up of giant animations that you just switch between… if FlxPath is hard, that will be easy enough.)
+
+
+=== SCREENS ===
+
+In each screen we need to have an explanation and then the "simulation" runs. Probably on separate screens I suppose. Maybe an opening stage which is a tutorial which shows you how to change the train tracks of not - maybe get them to do both so they understand the process...
+
+TITLE
+"Trolley Problem" (a series of interesting choices?)
+
+TUTORIAL
+Classic format but without people on the train tracks
+
+LEVEL ONE
+Classic trolley problem - tracks, can switch the train, 3-5 versus 1
+
+LEVEL TWO
+The fat man variant
+
+LEVEL THREE
+The loop variant
+
+LEVEL FOUR
+The "your mother" variant
+
+RESULTS
+You pulled the lever. One person died. Three people lived.
+You pushed the fat man. One person died. Three people lived.
+You didn't pull the lever. Three people died. One person lived.
+You didn't pull the lever. Three people died. Your mother lived.
