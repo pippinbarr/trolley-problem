@@ -1,0 +1,39 @@
+# Journal (actually blog posts from the deep past)
+
+## Tell, Don't Show? (2011-09-26)
+
+So I'm finally turning my attention to the next game which I intend to whip up in a jiffy. It's a deeply uncomplicated thing, literally a one button game (though I missed the boat on all those cool challenges surrounding that). In essence, it's a recreation of the classic ethics dilemma called the "Trolley Problem". The game is going to be called _Trolley Problem_.
+
+Anyway, part of the problem (oh ho ho) about making the game is this whole question of how you convince or coddle or whatever the player into caring about the decisions they make. Conventional wisdom, as I take it, is largely that you leverage the aesthetics of the game in such a way as to convey the gravity and importance of decisions. Photorealistic furrowed brows and the like. That is, "this is an important decision because it looks and sounds like it would be important if this were real". With the problem, as always, being that it isn't real and, in my experience, we as players are pretty happy to fool around in even the more gritty and serious of video game situations.
+
+A partial solution is to simply demand something along the lines of "player accountability". So if they want to fool around like a bunch of fools then let them, but then it's their fault that their decisions don't feel like they carry weight in the world of the game. To a big extent I'm in favour of this &#8211; I think that a major movement has to exist in games and players that focuses on players engaging more fully with the content and nature of games than solely as systems to play with (however awesome that play also is).
+
+Given that amazing aesthetics are a touch out of my reach for _Trolley Problem_ I've been wondering about a "tell, don't show" approach. That is, instead of fussing about _implying_ and _connoting_ the importance of decisions to be made, I just _tell_ the player they're making important decisions outright. As is: "Dear player, this is important." (As in: so don't screw around.)
+
+So that's part of my theory for the new game. Let's see how it goes!
+
+## This Is What That Means And Why (2011-04-10)
+
+I've spent today evaluating students' design pitches for experimental games and also awkwardly trying out some initial words about why _Trolley Problem_ is the way it is for the (very few) people who have tried it out, I've been thinking about this whole thing of explaining elements of games. In particular, because I teach this course of "experimental interaction" and consider myself engaged in the process of creating "curious games", I find myself constantly asking _why_ about each element of a design or game.
+
+This is a good thing because it's really kind of hard to answer the question when the raison d'etre of your game is not "fun" but rather some other purpose or meaning or experience. In particular, in that case you really _should_ be able to talk about why it is the way it is, I think. And it's only in practising answering the question that you a) get any better at answering it and using half-way decent combinations of words to express what you think you're doing and b) often, have any chance of understand what you were doing in the first place (since it doesn't all come out fully baked, or whatever).
+
+The point being that while I got to a place where I felt like I could explain certain aspects of _The Artist Is Present_ intelligently (waiting as antithetical to games, pushing against overblown notions of "fairness" in contemporary games, etc.), I'm finding it really hard to talk/write about why _Trolley Problem_ is the lo-fi, unhelpful little thing that it is. Yet I _know_ I made it that way on purpose and for various reasons.
+
+So more on that later.
+
+## Trolley: Problemed (2011-10-07)
+
+So today-ish I "released" _Trolley Problem_ into the world &#8211; you can check it out over at the [games page](http://www.pippinbarr.com/games/) if you're interested in playing it (doesn't take long). Actually, "released" doesn't need to be in quote marks so much as usual because _Kill Screen_ were awesome enough to announce the game as part of their news feed, so I even felt a bit official. The _Kill Screen_ community is my absolute favourite place to discuss game making &#8211; I've never had anything but excellent and interesting discussions there. Lucky to have it.
+
+Anyway, the major victory with _Trolley Problem_ was, I think, overcoming the laziness that surrounded its creation. It was a bit of a double-edged affair. For one thing I felt totally wiped out by the reaction to _The Artist Is Present_ and thus somehow less capable of moving on to the next game with alacrity. For another, _Trolley Problem_ is basically really, really simplistic as games go. There was no technical challenge involved with making it, nor much of an aesthetic challenge once I decided on the particular philosophy of its representation as being unremittingly low fidelity. That basically made me take quite a lot longer to finish than I should have. (On the plus side the next game, which I will discuss another time, is already well under way &#8211; so a much better turn-around this time it seems.)
+
+I haven't seen a huge amount of reaction to the game outside of my discussions with _Kill Screen_ers as yet, so not sure how it's striking people, but thought I would record my thoughts here for the moment. Making this particular game came up because I like to talk about ethics and philosophy to my experimental interaction course. I brought up the trolley problem in class a few weeks ago and we talked through, essentially, why it would never work out as a game &#8211; in essence because gamers (a) don't really care about their ethical decisions (not strictly true of course, but has some truth), and (b) will tend to choose "both" in a dilemma. Once we had all decided it wouldn't pan out as a game, I obviously had to make it.
+
+The "high-minded" reason for making it was to explore an alternative avenue for having people care about their decisions in a game. My thought was to pretty much strip away everything I could think of that smacked of some kind of valuation from the game, with the (almost certainly mistaken, but still) ambition of loading the maximum amount of "decision making" onto the player's moral decisions. That meant the minimum of graphics (though I still wanted graphics because that's more fun), no "rewarding" animations of death etc. (just a beep and a figure turning red and no longer animating), and the flattest voice I could manage in all the texts the game uses to communicate. A very early insight into how I wanted it to be was that the game would just register "okay" after each choice you made, and that was my guiding principle for how to have it go aesthetically.
+
+In the end, partly just because I could and I liked that [One Chance](http://www.newgrounds.com/portal/view/555181) used it, I went with making the game "non replayable" (obviously you can if you just monkey with the cookies &#8211; but then perhaps you'd ask yourself, why am I monkeying with these cookies just to remake a moral decision?). I thought it was fitting that you just choose one time, again to lend seriousness to the proceedings, and also just that it's pretty hilarious in such a tiny and aesthetically unappealing game that it only gives you one chance &#8211; as if you'd even _want_ to play it again, etc.
+
+On the balance I'm pretty happy with how the game came out. It's very simple and straight forward, but it does provide you with the basics of the trolley problem, and I do think it largely avoids giving you any information for decision making beyond your own brain and feelings about these things. As such, I like to imagine the people playing it perhaps actually giving a slight damn about what they choose and, largely, being okay with how they end up.
+
+As for me: switch, switch, shove, no switch (wife).

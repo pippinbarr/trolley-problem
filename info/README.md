@@ -1,6 +1,6 @@
 # Trolley Problem
 
-## [Play Online](../emulation/)
+## [Play Online](../emulation/) (in emulation)
 ## [Download the .swf](../export/TrolleyProblem.swf)
 
 ## Description
@@ -10,6 +10,11 @@ Trolley Problem was written in ActionScript 3 using Adobe&#8217;s FlashBuilder 4
 ~~You can read [my writing about the game](http://www.pippinbarr.com/tag/trolley-problem?order=asc) on my blog.~~ Trolley Problem was written about on [Alphr](http://www.alphr.com/games/1002218/how-games-like-the-walking-dead-turn-us-into-armchair-philosophers).
 
 Trolley Problem has appeared in the exhibition [The Games of Art](http://www.ciprecinct.qut.edu.au/archive/2013/games-of-art.jsp) at the [QUT Creative Industries Precinct](http://www.ciprecinct.qut.edu.au/).
+
+## Process
+
+- You can read my [process documentation](../process/) about the game (largely blog posts)
+- The [source code of Trolley Problem](http://github.com/pippinbarr/trolley-problem) is available online
 
 ## Ah, Flash
 
